@@ -1,4 +1,4 @@
-module app
+module internal/app
 
 go 1.20
 
